@@ -1,0 +1,337 @@
+@media (min-width: 1350px) {
+    .text-img-aboutctsp {
+        top: 18%;
+    }
+    .text-img-aboutghsp {
+        top: 18%;
+    }
+    .text-img-aboutsp{
+        top: 18%;
+    }
+    .banner .carousel-item .text-content {
+    left: 31%;
+    }
+    .icon {
+        margin: 0 0.5rem;
+        width: 22em;
+    }
+}
+	
+@media (min-width: 1311px) {
+    .menu-icon {
+        font-size: 20px;
+        color: white;
+        display: none;
+        float: right;
+    }
+    
+}
+@media (max-width: 1310px) {
+    .logo {
+        padding-bottom: 3em;
+    }
+    .menu-icon {
+        font-size: 20px;
+        color: white;
+        display: block;
+        float: right;
+    }
+    .menu-icon .fa-solid {
+        font-size: 20px;
+    }
+	.header {
+       overflow: hidden ;
+       height: 100px;
+    }
+    .menu_child{
+        margin-top: -0.5em;
+        height: auto;
+       flex-direction: column;
+        background-color: rgba(0,0,0,0.6);
+       
+    }
+    .header li a {
+        font-size: 1.2em;
+        line-height: 2.5em;
+
+    }
+    .search {
+        height: 2em;
+        width: 55%;
+        justify-content: space-between;
+    }
+    .header .search input {
+        width: 135px;
+        height: 27px;
+    }
+    .search ::placeholder{
+        width: 130;
+    }
+    .banner .carousel-item img {
+        width: 25%;
+        height: 42em;
+       
+    }
+    .banner .carousel-item .text-content {
+        width: 40%;
+        display: none;
+    }
+    .banner .carousel-item .text-content h1 {
+        line-height:2em;
+        font-size: 1em;
+    }
+    .banner .carousel-item .text-content h4{
+        font-size: 0.8em;
+    }
+    .logo{
+        height:  3em;
+    }
+    .foot .col-md-2{
+        font-size:2em;
+        
+    }
+    .outfit img {
+        
+        margin: 3em 0;
+        box-shadow: 0px 0px 10px 0px white;
+    }
+    
+}
+@media (max-width: 991px) {
+    .logo {
+        padding-bottom: 3em;
+    }
+    .menu-icon {
+        font-size: 20px;
+        color: white;
+        display: block;
+        float: right;
+    }
+    .menu-icon .fa-solid {
+        font-size: 20px;
+    }
+	.header {
+       overflow: hidden ;
+       height: 100px;
+    }
+    .menu_child{
+        margin-top: -0.5em;
+        height: auto;
+       flex-direction: column;
+        background-color: rgba(0,0,0,0.6);
+       
+    }
+    .header li a {
+        font-size: 1.2em;
+        line-height: 2.5em;
+
+    }
+    .search {
+        height: 2em;
+        width: 55%;
+        justify-content: space-between;
+    }
+    .header .search input {
+        width: 135px;
+        height: 27px;
+    }
+    .search ::placeholder{
+        width: 130;
+    }
+    .banner .carousel-item img {
+        width: 25%;
+        height: 38em;
+       
+    }
+    .banner .carousel-item .text-content {
+        width: 40%;
+        display: none;
+    }
+    .banner .carousel-item .text-content h1 {
+        line-height:2em;
+        font-size: 1em;
+    }
+    .banner .carousel-item .text-content h4{
+        font-size: 0.8em;
+    }
+    .logo{
+        height:  3em;
+    }
+    .foot .col-md-2{
+        font-size:2em;
+        
+    }
+    .outfit img {
+        width: 20em;
+        height: 27em;
+        margin: 3em 0;
+        box-shadow: 0px 0px 10px 0px white;
+    }
+    
+}
+
+@media (max-width: 768px) {
+    .menu-icon {
+        font-size: 20px;
+        color: white;
+        display: block;
+        float: right;
+    }
+    .menu-icon .fa-solid {
+        font-size: 20px;
+    }
+	.header {
+       overflow: hidden ;
+       height: 80px;
+    }
+    .menu_child{
+        margin-top: -0.5em;
+        height: auto;
+       flex-direction: column;
+        background-color: rgba(0,0,0,0.6);
+       
+    }
+    .header li a {
+        font-size: 0.8em;
+        line-height: 2.5em;
+
+    }
+    .search {
+        width: 40%;
+        justify-content: space-between;
+    }
+    .header .search input {
+        width: 135px;
+        height: 27px;
+    }
+    .search ::placeholder{
+        width: 130;
+    }
+    .banner .carousel-item img {
+        width: 25%;
+        height: 33em;
+       
+    }
+    .banner .carousel-item .text-content {
+        width: 40%;
+        display: none;
+    }
+    .banner .carousel-item .text-content h1 {
+        line-height:2em;
+        font-size: 1em;
+    }
+    .banner .carousel-item .text-content h4{
+        font-size: 0.8em;
+    }
+    .logo{
+        height:  3em;
+    }
+    .foot .col-md-2{
+        font-size:20px;
+        padding-bottom: 5em;
+    }
+    
+}
+
+@media (max-width: 576px) {
+    .menu-icon {
+        font-size: 20px;
+        color: white;
+        display: block;
+        float: right;
+    }
+    .menu-icon .fa-solid {
+        font-size: 20px;
+    }
+	.header {
+       overflow: hidden ;
+       height: 80px;
+    }
+    .menu_child{
+        margin-top: -0.5em;
+        height: auto;
+       flex-direction: column;
+        background-color: rgba(0,0,0,0.6);
+       
+    }
+    .header li a {
+        font-size: 0.8em;
+        line-height: 2.5em;
+
+    }
+    .search {
+        width: 40%;
+        justify-content: space-between;
+    }
+    .header .search input {
+        width: 135px;
+        height: 27px;
+    }
+    .search ::placeholder{
+        width: 130;
+    }
+    .banner .carousel-item img {
+        width: 25%;
+        height: 25em;
+       
+    }
+    .banner .carousel-item .text-content {
+        width: 40%;
+        display: none;
+    }
+    .banner .carousel-item .text-content h1 {
+        line-height:2em;
+        font-size: 1em;
+    }
+    .banner .carousel-item .text-content h4{
+        font-size: 0.8em;
+    }
+    .logo{
+        height:  3em;
+    }
+    .foot .col-md-2{
+        font-size:5px;
+        
+    }
+    .search {
+        width: 50%;
+        justify-content: space-between;
+    }
+    .header .search input {
+        width: 135px;
+        height: 27px;
+    }
+    .search ::placeholder{
+        width: 130;
+    }
+    .img-wrap{
+        width: 100%;
+    }
+    .img-wrap .img-tops img {
+       height: 400px;
+        width: 100%;
+    }
+    .text-img-tops{
+        width: 50%;
+        height: 100px;
+        top: 30%;
+        left: 25%;
+       
+    }
+    .text-img-tops h1{
+      line-height: 10px;
+      font-size: 1.3em;       
+    }
+    .foot p{
+        font-size: 1rem;
+    }
+    .foot h4{
+        font-size: 1rem;
+    }
+    .ft-icon i {
+        font-size: 1.2rem;
+       
+    }
+    
+}
+
