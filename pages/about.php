@@ -8,7 +8,7 @@
        </div>
        <div class="container about">
         <div class="infor">
-          <h3> Limerence / Về Chúng Tôi</h3>
+          <h3> Sweetheart / Về Chúng Tôi</h3>
         </div>
         <div class="text-wellcome">
             <h4>Chúng tôi là thương hiệu thời trang Streetwear nổi tiếng với định hướng
@@ -19,16 +19,16 @@
                 <img src="img/bg/bg1.jpg" alt="">
             </div>
             <div class="col-sm-8">
-                <h4>Limerence là lựa chọn hàng đầu dành cho các tín đồ thời trang Streetwear sành điệu. Sứ mệnh của Limerence là trao quyền cho thế hệ trẻ toàn thế giới tự do thể hiện phong cách thông qua thời trang, thương hiệu vượt qua ranh giới của thời trang streetwear bằng cách không ngừng sáng tạo các trang phục với các bộ sưu tập độc đáo.</h4>
+                <h4>Sweetheart là lựa chọn hàng đầu dành cho các tín đồ thời trang Streetwear sành điệu. Sứ mệnh của Sweetheart là trao quyền cho thế hệ trẻ toàn thế giới tự do thể hiện phong cách thông qua thời trang, thương hiệu vượt qua ranh giới của thời trang streetwear bằng cách không ngừng sáng tạo các trang phục với các bộ sưu tập độc đáo.</h4>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-8">
-               <h4>Tại Limerence, mỗi sản phẩm đều mang theo sự cá tính và sành điệu, đại diện cho hình ảnh giới trẻ hiện đại - biểu tượng cho sự dẫn đầu phong cách thời đại mới.
+               <h4>Tại Sweetheart, mỗi sản phẩm đều mang theo sự cá tính và sành điệu, đại diện cho hình ảnh giới trẻ hiện đại - biểu tượng cho sự dẫn đầu phong cách thời đại mới.
 
-                Quần áo có thể sẽ lỗi thời nhưng phong cách thời trang thì không. Tầm nhìn độc đáo của Limerence chính là để mỗi cá nhân tự do thể hiện phong cách khi khoác lên mình những sản phẩm được tạo nên từ sự đam mê, mang giá trị của thế hệ mới, đầy trẻ trung, năng động và luôn không ngừng khẳng định bản thân, hướng đến tương lai.
+                Quần áo có thể sẽ lỗi thời nhưng phong cách thời trang thì không. Tầm nhìn độc đáo của Sweetheart chính là để mỗi cá nhân tự do thể hiện phong cách khi khoác lên mình những sản phẩm được tạo nên từ sự đam mê, mang giá trị của thế hệ mới, đầy trẻ trung, năng động và luôn không ngừng khẳng định bản thân, hướng đến tương lai.
                 
-                Sự đầu tư từ chất lượng đóng gói, bao bì sản phẩm đến mỗi thước phim, hình ảnh cho tới cách làm chủ được nghệ thuật sắc màu và chỉn chu trong từng chi tiết đã đưa Limerence trở thành một trong những thương hiệu thời trang Streetwear được giới trẻ yêu thích, tin dùng hàng đầu tại Việt Nam.</h4>
+                Sự đầu tư từ chất lượng đóng gói, bao bì sản phẩm đến mỗi thước phim, hình ảnh cho tới cách làm chủ được nghệ thuật sắc màu và chỉn chu trong từng chi tiết đã đưa Sweetheart trở thành một trong những thương hiệu thời trang Streetwear được giới trẻ yêu thích, tin dùng hàng đầu tại Việt Nam.</h4>
             </div>
             <div class="col-sm-4 ">
                <img class="img-row2" src="img/bg/bg2.jpg" alt="">

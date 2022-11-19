@@ -17,7 +17,7 @@
           ?>
           </h3>
 <table class="giohang" style="width:100% ">
-  <tr>
+  <tr class="py-3">
     <th>ID</th>
     <th>Mã sản phẩm</th>
     <th>Tên sản phẩm</th>

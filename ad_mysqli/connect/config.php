@@ -6,7 +6,7 @@ $password = "";
 // Create connection
 // $mysqli = new mysqli("localhost","root","","limerence");
 try{
-  $pdo = new PDO("mysql:host=localhost;dbname=limerence", 'root', null);
+  $pdo = new PDO("mysql:host=localhost;dbname=congnghewed", 'root', null);
   $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }
 catch (PDOException $e){

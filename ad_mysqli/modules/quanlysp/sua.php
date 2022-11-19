@@ -1,6 +1,6 @@
 <?php
 $sql_sua_sp = "SELECT * FROM sanpham WHERE id_sanpham='$_GET[idsanpham]' LIMIT 1 ";
-$sth = $pdo -> query();
+$sth = $pdo -> query($sql_sua_sp);
 // $query_sua_sp = mysqli_query($mysqli,$sql_sua_sp);
 
 ?>

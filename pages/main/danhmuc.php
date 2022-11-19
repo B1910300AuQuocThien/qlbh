@@ -7,7 +7,7 @@ $sth = $pdo->query($sql_pro);
 
 
 ?>
-<div class="row">
+<div class="row w-100 d-flex justify-content-center">
   <div class="product-left col-sm-9">
     <div class="row">
       <?php
