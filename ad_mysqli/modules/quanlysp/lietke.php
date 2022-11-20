@@ -4,7 +4,7 @@ $sth = $pdo -> query($sql_lietke_sp);
 // $query_lietke_sp = mysqli_query($mysqli,$sql_lietke_sp);
 
 ?>
-<p>liệt kê sản phẩm</p>
+<p class="lk_sp">liệt kê sản phẩm</p>
 <table class="table-lk" border="1" style="border-collapse:collapse; width :100%;">
   <tr>
     <th>id</th>

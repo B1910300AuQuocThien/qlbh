@@ -1,4 +1,4 @@
-<p>Liệt kê đơn hàng</p>
+<p class="lk_dh">Liệt kê đơn hàng</p>
 <?php
 $sql_lietke_dh = "SELECT * FROM cart,dangky WHERE cart.id_khachhang=dangky.id_dangky ORDER BY cart.id_cart DESC ";
 $sth = $pdo -> query($sql_lietke_dh);

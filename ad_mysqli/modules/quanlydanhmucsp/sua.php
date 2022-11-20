@@ -4,7 +4,7 @@ $sth =  $pdo -> query($sql_sua_danhmucsp);
 // $query_sua_danhmucsp = mysqli_query($mysqli,$sql_sua_danhmucsp);
 
 ?>
-<p>Sửa danh mục sản phẩm</p>
+<p class="sua_dm">Sửa danh mục sản phẩm</p>
 <table border="1" style="border-collapse:collapse;">
   <form method="POST" action="modules/quanlydanhmucsp/xuly.php?iddanhmuc=<?php echo $_GET['iddanhmuc'] ?>">
     <?php
@@ -19,7 +19,7 @@ $sth =  $pdo -> query($sql_sua_danhmucsp);
         <td><input type="text" value="<?php echo $dong['thutu']?>" name="thutu" ></td>
     </tr>
     <tr>
-        <td colspan="2"><input type="submit" name="suadanhmuc" value="Sửa danh mục sản phẩm"  ></td>
+        <td colspan="2"><input type="submit" name="suadanhmuc" value="cập nhật danh mục sản phẩm"  ></td>
     </tr>
     <?php
     }

@@ -1,4 +1,4 @@
-<p>Thêm sản phẩm</p>
+<p class="them_sp">Thêm sản phẩm</p>
 <table class="bang" border="1" style="border-collapse:collapse;">
   <form method="POST" action="modules/quanlysp/xuly.php" enctype="multipart/form-data">
     <tr>

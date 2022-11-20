@@ -4,7 +4,7 @@ $sth = $pdo -> query($sql_sua_sp);
 // $query_sua_sp = mysqli_query($mysqli,$sql_sua_sp);
 
 ?>
-<p>Thêm sản phẩm</p>
+<p>Chỉnh sửa thông tin sản phẩm</p>
 <table class="bang1" border="1" style="border-collapse:collapse;">
 <?php
 while($row = $sth -> fetch()){
@@ -85,7 +85,7 @@ while($row = $sth -> fetch()){
         </td> 
     </tr>
     <tr>
-        <td colspan="2"><input type="submit" name="suasanpham" value="sửa sản phẩm"></td>
+        <td colspan="2"><input type="submit" name="suasanpham" value="cập nhật thông tin"></td>
     </tr>
   </form>
   <?php

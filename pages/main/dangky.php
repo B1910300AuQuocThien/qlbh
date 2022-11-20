@@ -41,7 +41,6 @@
     margin: 8px 0;
     border: none;
     cursor: pointer;
-
     opacity: 0.9;
   }
 
@@ -64,8 +63,12 @@
 
   .container-login {
     padding: 16px;
-    margin: 0 auto;
-    margin-right: 10px;
+    margin: 20px auto;
+    margin-right: 50px;
+    border: 1px solid black;
+    border-top: none;
+    border-radius: 5px;
+    box-shadow: 0 30px 40px burlywood;
   }
 
   form>div {
@@ -140,6 +143,7 @@
     --_i: 10%;
     filter: grayscale(0);
   }
+  
 </style>
 <div class="img-wrap">
   <div class="img-aboutsp ">
@@ -175,7 +179,6 @@
       }
       ?>
       <form class="form" action=" " method="POST">
-
         <hr>
         <div class="form-outline">
           <input class="form-control" type="text" name="hovaten">

@@ -553,26 +553,18 @@ button {
 .foot {
 	margin-top: 30px;
 	border-top: 1em solid black;
-	background-color: white;
+	background-color: rgba(248, 197, 248, 0.815);
 
 }
 
-.hotline {
-
+.hotline, .email, .emailbusiness, .Time {
 	margin-bottom: 1em;
-}
-
-.email {
-	margin-bottom: 1em;
-}
-
-.emailbusiness {
-	margin-top: 1em;
 }
 
 h4 {
 	margin-bottom: 1em;
-	color: #a8a8a8;
+	color: #000000;
+	cursor: pointer;
 }
 
 .foot .col-md-2 {
@@ -803,11 +795,20 @@ label {
 
 
 
+
 .container-dn {
-	width: 50%;
+	width: 40%;
 	margin: 0 auto;
 	margin-top: 3em;
+	border: 1px solid black;
+	padding: 16px;
+	border-top: none; 
+	border-radius: 5px;
+
 }
+
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 

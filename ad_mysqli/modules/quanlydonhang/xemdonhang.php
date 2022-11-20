@@ -1,4 +1,4 @@
-<p>xem đơn hàng</p>
+<p class="xem_dh">xem đơn hàng</p>
 <?php
 $sql_lietke_dh = "SELECT * FROM cart_details,sanpham WHERE cart_details.id_sanpham=sanpham.id_sanpham AND cart_details.code_cart='$_GET[code]' ORDER BY cart_details.id_cart_details DESC ";
 $sth = $pdo -> query($sql_lietke_dh);

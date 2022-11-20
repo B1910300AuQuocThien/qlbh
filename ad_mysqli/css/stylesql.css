@@ -1,81 +1,76 @@
-* p,li,a{
-    font-family:sans-serif;
-    text-decoration: none;
-    color: black;
-   
-}
-.menu-list {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-   justify-content: space-evenly;
-    display: flex;
-    background-color: black;
-    height: 3.5em;
-}
-.menu-list li a{
-    text-decoration: none;
-    font-size: larger;
-    color: white;
-    line-height: 2.5em;
-    text-transform: uppercase;
-
-
-}
-
 .title {
+    padding: 10px 40px;
+    background-color: peachpuff;
+}
+
+.menu {
+    width: fit-content;
+}
+
+.menu-list {
+    padding: 0 auto;
+    margin-left: 50px;
+    margin-top: 40px;
+    position: sticky;
+    top: 25px;
+}
+
+.menu-list li a {
+    color: black;
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
+
+.menu-list li {
+    border: 1px solid white;
+    margin-top: 5px;
+    padding: 5px 3px;
+    border-radius: 5px;
+    background-color: rgb(44, 39, 39);
+    text-align: center;
+}
+
+.them_dm,
+.lk_dm,
+.them_sp,
+.lk_sp {
+    font-weight: 700;
     text-align: center;
     font-size: 40px;
-    color: black;
 }
-.wrapper {
-    border: 0.5em solid gray;
-    height: auto;
-    width: 80%;
+
+.bang {
+    width: 50%;
     margin: 0 auto;
-   
 }
-p {
-    font-weight: 600;
-    margin-left: 5px;
-    background-color: wheat;
-    padding: 1em;
-    width: 15em;
-    text-transform: uppercase;
+
+tbody tr td {
+    padding: 10px;
 }
-tr,td,th{
-    border: 4px solid gray;
-    margin: 0 auto;
-    text-transform: uppercase;
+
+th {}
+
+th,
+td {
+    border: 1px solid black;
+}
+
+.table-lk {
+    width: 100%;
+    text-align: center;
+    background-color: bisque;
+}
+
+.table-lk th {
+    padding: 20px 5px;
     text-align: center;
 }
-input {
-    text-transform: uppercase;
-    color: black;
-    background-color: wheat;
-    margin: 10px;
-    padding: 5px;
-    border-radius: 5px;
-    width: 20em;
-    border: none;
+
+.table-lk tbody tr td {
+    border: 1px solid;
 }
-.bang1 {
-    margin: 0 auto;
-}
-.bang {
-    margin: 0 auto;
-}
-textarea {
-    color: black;
-    background-color: wheat;
-    margin: 10px;
-    padding: 5px;
-    border-radius: 5px;
-    width: 20em;
-    border: none;
-}
-.table-lk {
-    border-right: none;
-    border-left: none;
-    background-color: antiquewhite;
+
+img {
+    box-shadow: 0px 10px 20px black;
 }
